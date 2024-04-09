@@ -282,6 +282,14 @@ h3 {
 }
 
 
+@media screen and (max-width: 520px) {
+body{
+    padding: 0;
+}
+
+}
+
+
 /*---slide--*/
 
  
